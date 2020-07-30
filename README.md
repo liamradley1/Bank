@@ -1,4 +1,6 @@
 # Bank
+
+  /* This software has been deprecated in favour of conversion into an application based in React.js. There will be core attributes                                                      used when connecting to databases in the newer project.                                                                        */
  
 - Emulates a terminal version of a centralised banking database.
 - Uses a PostgreSQL database to manage transactions.
@@ -9,3 +11,5 @@
 - For personal use, it would be recommended to alter the connection specifics in the main method to better reflect one's own arrangements.
 
 - TODO: Add a more visually appealing and user-friendly front-end to the project.
+
+
